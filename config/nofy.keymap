@@ -360,9 +360,9 @@
 
         NUM {
             bindings = <
-&trans  &kp LBKT      &kp EQUAL     &kp SQT       &kp LS(N6)    &kp INT3  &trans       &kp K_MUTE  &trans          &trans          &kp ESCAPE    &trans          &to 7   &trans
-&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5    &kp EQUAL    &trans      &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp LEFT_ARROW  &trans  &trans
-&trans  &kp NUMBER_6  &kp N7        &kp N8        &kp N9        &kp N0    &kp MINUS    &kp PLUS    &trans          &trans          &trans        &trans          &trans  &trans
+&trans  &kp LBKT      &kp EQUAL     &kp SQT       &kp LS(N6)    &kp INT3  &trans       &kp K_MUTE  &trans          &trans          &kp ESCAPE    &trans     &to 7   &trans
+&trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5    &kp EQUAL    &trans      &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &trans  &trans
+&trans  &kp NUMBER_6  &kp N7        &kp N8        &kp N9        &kp N0    &kp MINUS    &kp PLUS    &trans          &trans          &trans        &trans     &trans  &trans
         &trans        &trans        &trans        &trans        &trans    &trans       &kp LC(V)   &kp LC(C)       &trans
             >;
 
